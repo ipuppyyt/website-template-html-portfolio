@@ -4,7 +4,7 @@ Here is the [Website Template](https://rekonise.com/portfolio-website-template-f
 
 
 
-[![](https://i.imgur.com/FtKWFCq.png)](https://afreetestdomain.ml/)
+[![](https://i.imgur.com/FtKWFCq.png)](http://afreetestdomain.ml/)
 
 
 
