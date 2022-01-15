@@ -1,6 +1,6 @@
 # HTML Portfolio Website Template
 
-Here is the [Website Template](https://rekonise.com/portfolio-website-template-frne8) link you can use for free.
+Here is the [Website Template](https://rekonise.com/portfolio-website-template-frne8) link you can use completely for free.
 
 
 
